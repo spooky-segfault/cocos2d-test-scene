@@ -1,0 +1,6 @@
+/build
+/.externalNativeBuild
+/.cxx
+*.log
+*.apk
+output.json
